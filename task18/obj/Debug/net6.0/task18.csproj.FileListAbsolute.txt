@@ -1,0 +1,15 @@
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\obj\Debug\net6.0\task18.csproj.AssemblyReference.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\obj\Debug\net6.0\task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\obj\Debug\net6.0\task18.AssemblyInfoInputs.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\obj\Debug\net6.0\task18.AssemblyInfo.cs
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\obj\Debug\net6.0\task18.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\bin\Debug\net6.0\task18.exe
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\bin\Debug\net6.0\task18.deps.json
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\bin\Debug\net6.0\task18.runtimeconfig.json
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\bin\Debug\net6.0\task18.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\bin\Debug\net6.0\task18.pdb
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\obj\Debug\net6.0\task18.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\obj\Debug\net6.0\refint\task18.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\obj\Debug\net6.0\task18.pdb
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\obj\Debug\net6.0\task18.genruntimeconfig.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task18\obj\Debug\net6.0\ref\task18.dll
