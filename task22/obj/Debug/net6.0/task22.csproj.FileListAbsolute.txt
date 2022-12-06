@@ -1,0 +1,15 @@
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\bin\Debug\net6.0\task22.exe
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\bin\Debug\net6.0\task22.deps.json
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\bin\Debug\net6.0\task22.runtimeconfig.json
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\bin\Debug\net6.0\task22.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\bin\Debug\net6.0\task22.pdb
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\obj\Debug\net6.0\task22.csproj.AssemblyReference.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\obj\Debug\net6.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\obj\Debug\net6.0\task22.AssemblyInfoInputs.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\obj\Debug\net6.0\task22.AssemblyInfo.cs
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\obj\Debug\net6.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\obj\Debug\net6.0\task22.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\obj\Debug\net6.0\refint\task22.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\obj\Debug\net6.0\task22.pdb
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\obj\Debug\net6.0\task22.genruntimeconfig.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task22\obj\Debug\net6.0\ref\task22.dll
