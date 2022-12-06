@@ -2,9 +2,17 @@
 // или сообщает что третьей цифры нет.
 
 Console.Write("Введите число a = ");
-int n = int.Parse(Console.ReadLine());
-int k = (int)Math.Log10(n)-2;
-Console.WriteLine(k < 0 ? "нет третьей цифры " : (n % (int)Math.Pow(10, k + 1) / (int)Math.Pow(10, k)).ToString());
-Console.ReadLine();
-
-// Сложная задача, решала не сама
+int num = int.Parse(Console.ReadLine());
+if (num < 100)
+{
+    Console.WriteLine($"Третьей цифры нет ");
+}
+else
+{
+    while (num >= 1000)
+    {
+        num = num / 10;
+    }
+    int thirdNumber = num % 10;
+    Console.WriteLine($"Третья цифра числа --> {thirdNumber}");
+}
