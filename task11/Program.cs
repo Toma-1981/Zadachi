@@ -10,3 +10,5 @@ int b = a + numberN/100*10;
 
 Console.Write("Число без второй цифры ");
 Console.WriteLine(b);
+
+//Работает!!!
