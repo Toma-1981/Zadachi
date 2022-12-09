@@ -1,0 +1,15 @@
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\bin\Debug\net6.0\task24.exe
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\bin\Debug\net6.0\task24.deps.json
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\bin\Debug\net6.0\task24.runtimeconfig.json
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\bin\Debug\net6.0\task24.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\bin\Debug\net6.0\task24.pdb
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\obj\Debug\net6.0\task24.csproj.AssemblyReference.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\obj\Debug\net6.0\task24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\obj\Debug\net6.0\task24.AssemblyInfoInputs.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\obj\Debug\net6.0\task24.AssemblyInfo.cs
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\obj\Debug\net6.0\task24.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\obj\Debug\net6.0\task24.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\obj\Debug\net6.0\refint\task24.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\obj\Debug\net6.0\task24.pdb
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\obj\Debug\net6.0\task24.genruntimeconfig.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task24\obj\Debug\net6.0\ref\task24.dll
