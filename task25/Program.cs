@@ -2,27 +2,23 @@
 // возводит число A в натуральную степень B.
 // например: 3, 5 -> 243 (3⁵)
 //           2, 4 -> 16
+
 Console.Clear();
-int numberA = ReadInt("Введите число A: ");
-int numberB = ReadInt("Введите число B: ");
-ToDegree(numberA, numberB);
+Console.WriteLine("Введите число A: ");
+int numbera = int.Parse(Console.ReadLine()!);
 
-
-// Функция возведения в степень
-void ToDegree(int a, int b)
+Console.WriteLine("Введите число B: ");
+int numberb = int.Parse(Console.ReadLine()!);
+int result = ToDegree(numbera,numberb);
+Console.WriteLine($"Число {numbera} возведенное в степень числа {numberb} = {result}");
+int ToDegree(int numa, int numb)
 {
-    int result = 1;
-    for (int i = 1; i <= b; i++)
+    int res = 1;
+    for (int i = 1; i <= numb; i++)
     {
-        result = result * a;
+        res *= numa;
     }
-    Console.WriteLine(result);
+    return (res);
 }
 
-// Функция ввода
-int ReadInt(string message)
-{
-    Console.WriteLine(message);
-    return Convert.ToInt32(Console.ReadLine());
-}
-//Решала не сама!!!
+
