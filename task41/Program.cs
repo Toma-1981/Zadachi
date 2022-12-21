@@ -25,8 +25,7 @@ void CountNumbers(string[] listNum)
     int count = 0;
     foreach (string el in listNum)
     {
-        if (int.Parse(el)>0) count++;
-        Console.Write($"{el} ");
+        if (int.Parse(el)>0) count++;   
     }
     Console.Write($"Количество чисел > 0 = {count}");
 }
