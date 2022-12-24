@@ -23,9 +23,12 @@ int[,] CreateArray(int a, int b)
 
 void SearchPosition(int[,] array, int position)
 {
-    if(position%10 > array.GetLength(1) || position/10 > array.GetLength(0));
-    Console.WriteLine($"\nЧисло строки {position/10} и позиции {position%10} = {array[position/10-1, position%10-1]}");
+    if(position%10 > array.GetLength(1) || position/10 > array.GetLength(0))
+    Console.WriteLine($"\nЧисла со строкой {position/10} и позицией {position%10} в массиве нет");
+    else Console.WriteLine($"\nЧисло строки {position/10} и позиции {position%10} = {array[position/10-1, position%10-1]}");
+    
 }
+
 Console.WriteLine("Введите размер массива M*N (2 числа без пробела):");
 int size = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите позицию элемента массива для поиска X*Y (две цыфры без пробела): ");
