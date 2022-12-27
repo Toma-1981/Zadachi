@@ -1,0 +1,15 @@
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\obj\Debug\net6.0\task59.csproj.AssemblyReference.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\obj\Debug\net6.0\task59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\obj\Debug\net6.0\task59.AssemblyInfoInputs.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\obj\Debug\net6.0\task59.AssemblyInfo.cs
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\obj\Debug\net6.0\task59.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\bin\Debug\net6.0\task59.exe
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\bin\Debug\net6.0\task59.deps.json
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\bin\Debug\net6.0\task59.runtimeconfig.json
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\bin\Debug\net6.0\task59.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\bin\Debug\net6.0\task59.pdb
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\obj\Debug\net6.0\task59.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\obj\Debug\net6.0\refint\task59.dll
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\obj\Debug\net6.0\task59.pdb
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\obj\Debug\net6.0\task59.genruntimeconfig.cache
+C:\Users\tamar\Desktop\Моя учёба\GH\houmtask\task59\obj\Debug\net6.0\ref\task59.dll
