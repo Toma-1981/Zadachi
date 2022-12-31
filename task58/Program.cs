@@ -70,3 +70,50 @@ PrintArray(matrix, matrix1);
 Console.WriteLine();
 Composition(matrix, matrix1, compMatrix);
 PrintCompArray(compMatrix);
+
+/*void FillArray(int[,] matr)
+{
+for (int m = 0; m < matr.GetLength(0); m++)
+{
+for (int n = 0; n < matr.GetLength(1); n++)
+{
+matr[m, n] = new Random().Next(1, 10);
+}
+}
+}
+
+void PrintArray(int[,] matr)
+{
+for (int m = 0; m < matr.GetLength(0); m++)
+{
+for (int n = 0; n < matr.GetLength(1); n++)
+{
+Console.Write($"{matr[m, n]} ");
+}
+Console.WriteLine();
+}
+}
+
+void Composition(int[,] matr, int[,] matr1, int[,] compMatr)
+{
+for (int m = 0; m < matr.GetLength(0); m++)
+{
+for (int n = 0; n < matr.GetLength(1); n++)
+{
+for (int k = 0; k < matr.GetLength(0); k++)
+compMatr[m, n] += matr[m, k] * matr1[k, n];
+}
+}
+}
+
+int[,] matrix = new int[2, 2];
+int[,] matrix1 = new int[2, 2];
+int[,] compMatrix = new int[2, 2];
+FillArray(matrix);
+FillArray(matrix1);
+PrintArray(matrix);
+Console.WriteLine();
+PrintArray(matrix1);
+Console.WriteLine();
+Composition(matrix, matrix1, compMatrix);
+PrintArray(compMatrix);*/
