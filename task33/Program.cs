@@ -28,21 +28,21 @@ Console.Write("[");
 PrintArray(array);
 Console.Write("] ---> ");
 
-int i = 0;
-int count = 0;
-while (i<array.Length)
-{
-    if (A == array[i])
+    int i = 0;
+    int count = 0;
+    while (i<array.Length)
     {
-        count++;
+        if (A == array[i])
+        {
+            count++;
+        }
+        i++;
     }
-    i++;
-}
-if (count == 0)
-{
-    Console.Write("нет ");
-}
-else
-{
-    Console.Write("да ");
-}
+    if (count == 0)
+    {
+        Console.Write("нет ");
+    }
+    else
+    {
+        Console.Write("да ");
+    }

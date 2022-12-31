@@ -42,4 +42,3 @@ void WriteArray (int[,] array)
     Console.WriteLine();
   }
 }
-  
